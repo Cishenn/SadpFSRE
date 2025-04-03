@@ -1,4 +1,4 @@
-# Synergistic Anchored Contrastive Pre-training for Few-Shot Relation Extraction
+# SadpFSRE: A Novel Semantic Aggregation andDual Perspective Contrastive Framework for Few-Shot Relation Extraction
 
 ## Overview
 
